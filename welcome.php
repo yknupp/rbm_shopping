@@ -1,6 +1,5 @@
 <?php
 session_start();
-var_dump($_SESSION);
 require_once "config.php";
  
 if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){

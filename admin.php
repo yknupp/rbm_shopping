@@ -97,9 +97,7 @@ if (isset($_POST['cadastrarCupom'])) {
     <p>Para fazer consulta no banco de dados do shopping, clique no botão abaixo.</p>
     <p>
         <a href="consulta.php" class="btn btn-primary ml-3">Consultar Dados</a>
-    <p>
-        <a href="index.php" class="btn btn-primary ml-3">Voltar</a>
-    <p>
+    
         <a href="logout.php" class="btn btn-danger ml-3">Sair da conta</a>
     </p>
 </body>
